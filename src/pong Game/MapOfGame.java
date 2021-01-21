@@ -83,6 +83,8 @@ public class MapOfGame  extends JPanel implements KeyListener, ActionListener{
 		}
 		repaint();
 	  }
+	
+	//All Key Events
 	public void keyTyped(KeyEvent e) {
 	}
 
